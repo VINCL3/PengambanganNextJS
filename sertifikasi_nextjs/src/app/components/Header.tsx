@@ -4,7 +4,7 @@ export default function Header() {
             <div className="w-screen p-8 bg-slate-800 flex justify-between items-center">
                 <div>
                     <p className="font-bold text-white text-lg">
-                        VINCENT 林志华
+                        VINCENT
                     </p>
                 </div>
                 <div>
